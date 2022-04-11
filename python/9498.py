@@ -5,7 +5,7 @@ if input >= 90:
 elif input >= 80:
     print("B")
 elif input >= 70:
-    print("C")
+    prididir`nt("C")
 elif input >= 60:
     print("D")
 else :
